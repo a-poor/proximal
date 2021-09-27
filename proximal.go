@@ -1,5 +1,4 @@
-package main
+package proximal
 
-func main() {
-
+type Proximal struct {
 }
