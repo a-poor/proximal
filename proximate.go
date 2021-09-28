@@ -1,4 +1,4 @@
-package proximal
+package proximate
 
 type Proxy struct {
 	idx       int

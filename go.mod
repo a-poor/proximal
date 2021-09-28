@@ -1,3 +1,3 @@
-module github.com/a-poor/proximal
+module github.com/a-poor/proximate
 
 go 1.17
